@@ -1,12 +1,6 @@
 [build]
 publish = "."
 
-[[redirects]]
-from = "https://www.passthemis.com/*"
-to = "https://passthemis.com/:splat"
-status = 301
-force = true
-
 [[headers]]
 for = "/support.js"
   [headers.values]
