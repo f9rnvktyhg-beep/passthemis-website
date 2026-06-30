@@ -1,0 +1,2 @@
+# Redirect www to apex
+https://www.passthemis.com/* https://passthemis.com/:splat 301!

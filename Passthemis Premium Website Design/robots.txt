@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://passthemis.com/sitemap.xml
+Host: passthemis.com
